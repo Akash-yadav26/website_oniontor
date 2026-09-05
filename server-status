@@ -1,0 +1,21 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html><head><title>Apache Status</title></head><body>
+<h1>Apache Server Status for srv-shadowmarket.bulletproof-host.net (via 45.153.160.140)</h1>
+<dl>
+<dt>Server Version: Apache/2.4.52 (Ubuntu) OpenSSL/3.0.2</dt>
+<dt>Server MPM: event</dt>
+<dt>Server Built: 2024-04-18T10:12:33</dt>
+<dt>Current Time: Friday, 05-Sep-2026 07:41:20 UTC</dt>
+<dt>Restart Time: Monday, 18-Aug-2026 03:02:11 UTC</dt>
+<dt>Parent Server Generation: 3</dt>
+<dt>Server uptime: 18 days 4 hours 39 minutes</dt>
+<dt>Total accesses: 512477 - Total Traffic: 2.1 GB</dt>
+<dt>CPU Usage: u12.4 s3.8 cu0 cs0 - .0143% CPU load</dt>
+</dl>
+<pre>Scoreboard: WW_W.KK_C..___W......_.....</pre>
+<table border="0">
+<tr><th>Srv</th><th>PID</th><th>VHost</th><th>Client</th><th>Request</th></tr>
+<tr><td>0-3</td><td>1187</td><td>srv-shadowmarket.bulletproof-host.net</td><td>45.153.160.140</td><td>GET /api/v1/listings HTTP/1.1</td></tr>
+<tr><td>1-3</td><td>1188</td><td>admin.shadowmarket-panel.net</td><td>45.153.160.141</td><td>POST /admin/login HTTP/1.1</td></tr>
+<tr><td>2-3</td><td>1191</td><td>ztw4oo7jjydlnumorfjxpmc624i7t5hcbdacxtgkaspjrxdkkbskltqd.onion</td><td>127.0.0.1</td><td>POST /order/submit HTTP/1.1</td></tr>
+</table></body></html>

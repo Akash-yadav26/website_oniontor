@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /vendor-panel/
+Disallow: /api/internal/
+Disallow: /backups/
+Disallow: /.git/
+Disallow: /server-status
+Disallow: /phpinfo.php
+Disallow: /phpmyadmin/
+Sitemap: http://ztw4oo7jjydlnumorfjxpmc624i7t5hcbdacxtgkaspjrxdkkbskltqd.onion/sitemap.xml
